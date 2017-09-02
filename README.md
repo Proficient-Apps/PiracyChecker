@@ -31,7 +31,7 @@ And add the library to your module **build.gradle**:
 
 ```Javascript
 dependencies {
-    compile 'com.github.javiersantos:PiracyChecker:1.1'
+    compile 'com.github.Proficient-Apps:PiracyChecker:1.1'
 }
 ```
 
